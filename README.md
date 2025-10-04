@@ -32,7 +32,7 @@
 
 ---
 
-## 📚 Documentação
+📚 Documentação
 A melhor forma de conhecer o projeto é pela documentação no diretório <a href="docs/README.md">docs/</a>.
 
 - **Visão geral + minimundo**: `docs/README.md`  
@@ -42,16 +42,16 @@ A melhor forma de conhecer o projeto é pela documentação no diretório <a hre
 
 ---
 
-## 👤 Autores
+👤 Autores
 
-- **O coletivo** — visão do produto, especificação e desenvolvimento  
-- **@maryvitoria002** — manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/maryvitoria002">GitHub</a>)
+- **O coletivo** - visão do produto, especificação e desenvolvimento  
+- **@maryvitoria002** - manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/maryvitoria002">GitHub</a>)
 
-> Para contato sobre roadmap/arquitetura: `contato@exemplo.com` (ajuste para seu e-mail real).
+> Para contato sobre roadmap/arquitetura: `maryvitoria054@gmail.com`.
 
 ---
 
-## 👥 Contribuidores
+👥 Contribuidores
 
 Agradecimento a todas as pessoas que colaboram com código, documentação, design, testes e ideias.
 
@@ -67,7 +67,7 @@ Agradecimento a todas as pessoas que colaboram com código, documentação, desi
 
 ---
 
-## 🧱 Feito com
+ 🧱 Feito com
 
 - **Django 4.2.x** (back-end)  
 - **Python 3.10+** (linguagem)  
@@ -76,7 +76,7 @@ Agradecimento a todas as pessoas que colaboram com código, documentação, desi
 
 ---
 
-## ⚙️ Instalação (resumo)
+ ⚙️ Instalação (resumo)
 Para instruções detalhadas, veja o <a href="docs/installation.md">Guia de Instalação</a>.
 
 ```bash
