@@ -7,6 +7,9 @@
 
 <p align="center">
   <a href="https://github.com/maryvitoria002/Portal-3AII---PSW/releases">
+    <!-- opcional: badge de releases -->
+    <!-- <img src="https://img.shields.io/github/v/release/maryvitoria002/Portal-3AII---PSW?label=Stable&style=flat-square" alt="Stable Release"> -->
+  </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/maryvitoria002/Portal-3AII---PSW.svg?label=License&style=flat-square" alt="License">
   </a>
@@ -36,6 +39,40 @@ A melhor forma de conhecer o projeto é pela documentação no diretório <a hre
 - **Modelo de dados (DER)**: `docs/der.md`  
 - **Guia de instalação**: `docs/installation.md`  
 - **Guia de contribuição**: `docs/CONTRIBUTING.md`
+
+---
+
+## 👤 Autores
+
+- **O coletivo** — visão do produto, especificação e desenvolvimento  
+- **@maryvitoria002** — manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/maryvitoria002">GitHub</a>)
+
+> Para contato sobre roadmap/arquitetura: `contato@exemplo.com` (ajuste para seu e-mail real).
+
+---
+
+## 👥 Contribuidores
+
+Agradecimento a todas as pessoas que colaboram com código, documentação, design, testes e ideias.
+
+<a href="https://github.com/maryvitoria002/Portal-3AII---PSW/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=maryvitoria002/Portal-3AII---PSW" alt="Contributors" />
+</a>
+
+<!-- Lista opcional de destaques:
+- @usuario1 — docs e scripts de deploy
+- @usuario2 — DER e validações
+- @usuario3 — UI/UX e acessibilidade
+-->
+
+---
+
+## 🧱 Feito com
+
+- **Django 4.2.x** (back-end)  
+- **Python 3.10+** (linguagem)  
+- **Bootstrap 5** (front-end)  
+- **SQLite / PostgreSQL** (banco de dados)
 
 ---
 
