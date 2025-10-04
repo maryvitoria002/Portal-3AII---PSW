@@ -7,11 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/maryvitoria002/Portal-3AII---PSW/releases">
-    <img src="https://img.shields.io/github/v/release/maryvitoria002/Portal-3AII---PSW?label=Stable&style=flat-square" alt="Stable Release">
-  </a>
-  <a href="https://github.com/maryvitoria002/Portal-3AII---PSW/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/maryvitoria002/Portal-3AII---PSW/ci.yml?label=CI&style=flat-square" alt="CI">
-  </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/maryvitoria002/Portal-3AII---PSW.svg?label=License&style=flat-square" alt="License">
   </a>
@@ -24,13 +19,12 @@
 </p>
 
 <p align="center">
-  <em>Portal 3AII</em> é um sistema acadêmico para gestão de uma turma de Ensino Médio Técnico Integrado,
-  com módulos de notas, atividades, materiais, agenda, eventos e comunicação.
+  <em>O Portal 3AII</em> é um sistema acadêmico completo desenvolvido para gerenciamento de uma turma de ensino médio técnico integrado. O sistema facilita a comunicação entre estudantes e administradores, oferecendo funcionalidades de gestão de notas, atividades, materiais didáticos, eventos, agenda e organização institucional.
 </p>
 
 <p align="center">
   <!-- Substitua pelo seu screenshot -->
-  <img src="docs/assets/screenshot-dashboard.png" alt="Portal 3AII Screenshot">
+  <img src="/images/printSistema.png" alt="Portal 3AII Screenshot">
 </p>
 
 ---
