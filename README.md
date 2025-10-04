@@ -44,8 +44,10 @@ A melhor forma de conhecer o projeto é pela documentação no diretório <a hre
 
 👤 Autores
 
-- **O coletivo** - visão do produto, especificação e desenvolvimento  
 - **@maryvitoria002** - manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/maryvitoria002">GitHub</a>)
+- **@PedroHTP** - manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/PedroHTP">GitHub</a>)
+- **@kelvinstanley** - manutenção do repositório, desenvolvimento e coordenação (<a href="https://github.com/kelvinstanley">GitHub</a>)
+
 
 > Para contato sobre roadmap/arquitetura: `maryvitoria054@gmail.com`.
 
